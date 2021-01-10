@@ -1,0 +1,30 @@
+# we have integer 
+1,2,3,45,7 - type data 
+# we have float data type data 
+2.33, -0.3334
+# we have boolean datatype 
+True , False / here in true t is in uppercase letter else will show errors
+# we have string data 
+""- anything in double or single quote 
+
+Type casting 
+converting string into integer 
+stri = "34" 
+int(stri)
+34
+but if stri = " yidh" 
+then we can't convert it into integer if we try then it will show error 
+converting integer to string 
+intig = 45
+str(intig)
+"45"
+converting integer to float 
+intig = 34
+float(34)
+34.0
+converting float to integer 
+flo = 34.2
+int(flo)
+34
+
+
